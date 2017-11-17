@@ -22,4 +22,4 @@ Back End
 
 ## Wireframe & Mockups 
 
-![Initial Mock Up](./public/assets/images/intial-mock-up.png)
+![Initial Mock Up](https://github.com/itkazmi814/Portfolio/blob/master/public/assets/images/initial-mock-up.PNG)
