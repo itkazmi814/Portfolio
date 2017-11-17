@@ -22,4 +22,4 @@ Back End
 
 ## Wireframe & Mockups 
 
-WIP
+![Initial Mock Up](/public/assets/images/intial-mock-up.png)
