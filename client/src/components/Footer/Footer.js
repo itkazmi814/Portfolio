@@ -1,13 +1,13 @@
 import React from "react";
 
-const Projects = () => (
+const Footer = () => (
 	<div>
 		<section class="card">
 			<div class="card-text">
-				<h3> This is the projects section </h3>
+				<h3> This is the Footer </h3>
 			</div>
 		</section>
 	</div>
 );
 
-export default Projects;
+export default Footer;

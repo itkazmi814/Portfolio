@@ -1,0 +1,11 @@
+.jumbotron {
+	background: url("./forte.jpg") center center;
+	background-size: cover;
+	height: 100vh;
+	padding-top: 0;
+}
+
+.jumbotron-contents {
+	color: white;
+	text-shadow: black 0.1em 0.1em;
+}

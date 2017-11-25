@@ -1,0 +1,9 @@
+.navbar {
+	background: none;
+	/*position: fixed;*/
+}
+
+.transparent {
+	background-color: blue;
+	color: red;
+}
