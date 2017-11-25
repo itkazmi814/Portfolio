@@ -8,30 +8,12 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 
 const MainPage = () => (
-	<div>
+	<div class="col-12 px-0">
 		<Navbar />
 		<LandingHero />
 		<About />
 		<Skills />
 		<Projects />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
-		<Contact />
 		<Contact />
 		<Footer />
 	</div>

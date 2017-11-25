@@ -4,7 +4,7 @@ import "./Navbar.css";
 
 const Navbar = () => (
 	<div id="main-navbar">
-		<nav class="navbar navbar-expand-lg fixed-top navbar-light col-12">
+		<nav class="navbar navbar-expand-lg fixed-top navbar-light">
 			<a class="navbar-brand">Imran Kazmi</a>
 			<button
 				class="navbar-toggler"
